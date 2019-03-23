@@ -1,6 +1,5 @@
-archive
-node_modules
-package-lock.json
+# .gitignore adding .idea
+.idea
 
-#gitignore
+#.gitignore
 .idea
