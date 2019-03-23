@@ -2,5 +2,5 @@ archive
 node_modules
 package-lock.json
 
-#.gitignore 
+#.gitignore
 .idea
