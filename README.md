@@ -1,4 +1,6 @@
-# History of the Internet & Git Tutorial by David Salazar, Dennis Teixeira 
+# History of the Internet Timeline & Git Tutorial by David Salazar, Dennis Teixeira 
+
+
 
 # Timeline Project
 # February 20th 2019
